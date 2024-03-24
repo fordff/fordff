@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Frank Ford
-- 👀 I’m interested in ... Full Stack Development
+- 👋 Hi, I’m @Frank
+- 👀 I’m interested in ... .Net Full Stack Development
 - 🌱 I’m currently learning ... Blazor, Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
